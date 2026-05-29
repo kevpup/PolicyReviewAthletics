@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains three primary documents and one folder of athletics policy documents. Together, these materials support an analysis of athlete biometric data references in NCAA Division I and sport-specific athletics policies using a contextual integrity framework.
+This folder contains three primary documents and one folder of athletics policy documents. Together, these materials support an analysis of athlete biometric data references in NCAA Division I and sport-specific athletics policies using a contextual integrity framework. Proper viewing of .xlsx files will require the documents to be downloaded. 
 
 ## Folder Structure
 
